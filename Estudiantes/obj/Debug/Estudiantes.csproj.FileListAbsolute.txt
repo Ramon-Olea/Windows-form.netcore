@@ -1,0 +1,14 @@
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+C:\Users\Ramon Olea\source\repos\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete

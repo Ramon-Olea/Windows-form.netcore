@@ -1,0 +1,6 @@
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\bin\Debug\Logica.dll
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\bin\Debug\Logica.pdb
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\obj\Debug\Logica.dll
+C:\Users\Ramon Olea\source\repos\Estudiantes\Logica\obj\Debug\Logica.pdb
